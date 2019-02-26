@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="UserMessage"></dbname>
+    <version value="1"></version>
+    <list>
+            <mapping class="cn.edu.gxust.gxut_news.UserMessage"></mapping>
+    </list>
+</litepal>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/news"
+    android:orientation="vertical">
+    <!--新闻页面的第一个xml，加载上下两个布局-->
+
+
+    <android.support.v7.widget.Toolbar
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/toolbar"
+        android:fitsSystemWindows="true"
+        android:clipToPadding="true"
+        app:title="科大新闻"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <fragment
+        android:id="@+id/upsearch_fragment"
+        android:name="cn.edu.gxust.gxut_news.UpFragment"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <!--把新闻列表放进来-->
+    <fragment
+        android:id="@+id/news_title_fragment"
+        android:name="cn.edu.gxust.gxut_news.NewsTitleFragment"
+        android:layout_width="match_parent"
+        android:layout_height="470dp" />
+    <!--底部导航栏-->
+    <fragment
+        android:id="@+id/bottom_fragment"
+        android:name="cn.edu.gxust.gxut_news.DownFragment"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <!--<fragment-->
+    <!--android:id="@+id/down_fragment"-->
+    <!--android:name="cn.edu.gxust.gxut_news.DownFragment"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_weight="1"/>-->
+</LinearLayout>
