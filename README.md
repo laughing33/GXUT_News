@@ -146,7 +146,7 @@ public View getView(int position, View convertView, ViewGroup parent) {
 `picture`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png)
 `video`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png)
 `more`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png)
-`contact`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png)
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png)
 
 
 `one`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/one.gif)
