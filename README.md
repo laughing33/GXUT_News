@@ -138,17 +138,18 @@ public View getView(int position, View convertView, ViewGroup parent) {
     }
 ```
 # `preview`
+## welcome_page
+![welcome_page](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)
+## login_page
+![login_page](https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png)
+## word_news_page
+![word_page](https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png)
+## pic_news_page
+![pic_page](https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png)
+## video_news_page
+![video_page](https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png)
+## more_page
+![more_page](https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png)
+## contact_us_page
+![contact_page](https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png)
 
-<figure class="half">
-       <img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png">
-       <img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png">
-</figure>
-<figure class="half">
-       <img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png">
-       <img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png">
-</figure>
-<figure class="third">
-       <img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png">
-       <img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png">
-       <img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png">
-</figure>
