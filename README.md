@@ -7,6 +7,7 @@
 # preview
 ## welcome_page
 ![login_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/1.png)
+## login_page
 ![login_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/login.png)
 ## word_news_page
 ![word_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/word.png)
