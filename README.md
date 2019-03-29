@@ -138,22 +138,13 @@ public View getView(int position, View convertView, ViewGroup parent) {
     }
 ```
 # `preview`
-## welcome_page
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png"  width="200" height="260" ></div>
-## login_page
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png"  width="200" height="260" ></div>
-## word_news_page
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png"  width="200" height="260" ></div>
-## pic_news_page
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png"  width="200" height="260" ></div>
-## video_news_page
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png"  width="200" height="260" ></div>
-## more_page
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png"  width="200" height="260" ></div>
-## contact_us_page
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png"  width="200" height="260" ></div>
-
-
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/one.gif"  width="200" height="260" ></div>
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/two.gif" width="200" height="260" ></div>
 
