@@ -138,13 +138,11 @@ public View getView(int position, View convertView, ViewGroup parent) {
     }
 ```
 # `preview`
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/one.gif"  width="200" height="260" ></div>
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="https://github.com/javadoer/GXUT_News/blob/master/preview_images/two.gif" width="200" height="260" ></div>
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png)
+
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png)
+
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/one.gif)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/two.gif)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/three.gif)
+
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/four.gif)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/five.gif)
 
