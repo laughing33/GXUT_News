@@ -138,12 +138,23 @@ public View getView(int position, View convertView, ViewGroup parent) {
     }
 ```
 # `preview`
-welcome![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)welcome![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png)welcome![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png)
+`welcome`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)
+`login`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png)
+`words`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png)
 
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png)
 
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/one.gif)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/two.gif)
+`picture`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png)
+`video`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png)
+`more`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png)
+`contact`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png)
 
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/three.gif)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/four.gif)
 
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/five.gif)
+`one`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/one.gif)
+`two`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/two.gif)
+
+
+`three`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/three.gif)
+`four`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/four.gif)
+
+
+`five`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/five.gif)
