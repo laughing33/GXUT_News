@@ -6,9 +6,16 @@
 旅游服务类APP（携程、蚂蜂窝等）中任选一个APP进行模仿，并结合本学校内容进行创新改造。
 # preview
 ## welcome_page
+![welcome_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/welcome.png)
 ## login_page
+![login_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/login.png)
 ## word_news_page
+![word_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/word.png)
 ## pic_news_page
+![pic_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/picture.png)
 ## video_news_page
+![video_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/video.png)
 ## more_page
+![more_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/more.png)
 ## contact_us_page
+![contact_page](https://github.com/javadoer/GXUT_News/tree/master/preview_images/contact.png)
