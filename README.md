@@ -102,6 +102,40 @@ public class StartNews extends AppCompatActivity  {
         return super.onOptionsItemSelected(item);
     }
 }
+
+public View getView(int position, View convertView, ViewGroup parent) {
+        ViewHolder holder;
+        if (null == convertView) {
+            holder = new ViewHolder();
+            LayoutInflater mLayoutInflater = LayoutInflater.from(mContext);
+            convertView = mLayoutInflater.inflate(R.layout.videoplayer_item_videoview, null);
+            convertView.setTag(holder);
+        } else {
+            holder = (ViewHolder) convertView.getTag();
+        }
+        holder.mJCVideoPlayerStandard = (JCVideoPlayerStandard) convertView.findViewById(R.id.videoplayer);
+        if (mPager == -1) {
+            holder.mJCVideoPlayerStandard.setUp(
+                    VideoConstant.mVideoUrls[0][position], JCVideoPlayer.SCREEN_LAYOUT_LIST,
+                    VideoConstant.mVideoTitles[0][position]);
+            Log.e("TAG", "setUp" + position);
+            Picasso.with(convertView.getContext())
+                    .load(VideoConstant.mVideoThumbs[0][position])
+                    .into(holder.mJCVideoPlayerStandard.thumbImageView);
+        } else {
+            holder.mJCVideoPlayerStandard.setUp(
+                    VideoConstant.mVideoUrls[mPager][position], JCVideoPlayer.SCREEN_LAYOUT_LIST,
+                    VideoConstant.mVideoTitles[mPager][position]);
+            Picasso.with(convertView.getContext())
+                    .load(VideoConstant.mVideoThumbs[mPager][position])
+                    .into(holder.mJCVideoPlayerStandard.thumbImageView);
+        }
+        return convertView;
+    }
+
+    class ViewHolder {
+        JCVideoPlayerStandard mJCVideoPlayerStandard;
+    }
 ```
 # `preview`
 ## welcome_page
