@@ -138,7 +138,7 @@ public View getView(int position, View convertView, ViewGroup parent) {
     }
 ```
 # `preview`
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png)
+welcome![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)welcome![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png)welcome![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png)
 
 ![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/picture.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/video.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/more.png)![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png)
 
