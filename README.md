@@ -5,6 +5,8 @@ or video apps like Tik Tok or news apps like Tencent News or
 e-commerce apps like taobao.com 、jd.com ,etc as an example to 
 create your own app with the unique feature of your school.
 
+# ---`by`---`tabooBK`,`thanks`
+
 # `some_code`
 ```java
 public class StartNews extends AppCompatActivity  {
@@ -138,7 +140,7 @@ public View getView(int position, View convertView, ViewGroup parent) {
     }
 ```
 # `preview`
-`welcome`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png"one")
+`welcome`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)
 `login`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png)
 `words`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png)
 
