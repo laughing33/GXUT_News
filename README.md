@@ -1,11 +1,11 @@
-# GXUT_News
+# `GXUT_News`
 ## requirements
 Please pick one app from social apps like WeChat、TencentQQ, 
 or video apps like Tik Tok or news apps like Tencent News or
 e-commerce apps like taobao.com 、jd.com ,etc as an example to 
 create your own app with the unique feature of your school.
 
-# preview
+# `preview`
 ## welcome_page
 ![welcome_page](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)
 ## login_page
