@@ -138,7 +138,7 @@ public View getView(int position, View convertView, ViewGroup parent) {
     }
 ```
 # `preview`
-`welcome`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png)
+`welcome`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/welcome.png"one")
 `login`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/login.png)
 `words`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/word.png)
 
@@ -150,12 +150,12 @@ public View getView(int position, View convertView, ViewGroup parent) {
 `contact`![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/contact.png)
 
 
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/one.gif"one")
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/two.gif"one")
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/one.gif)
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/two.gif)
 
 
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/three.gif"one")
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/four.gif"one")
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/three.gif)
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/four.gif)
 
 
-![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/five.gif"one")
+![welcome](https://github.com/javadoer/GXUT_News/blob/master/preview_images/five.gif)
