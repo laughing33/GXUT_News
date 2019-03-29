@@ -1,11 +1,10 @@
 # `GXUT_News`
+### `programed` by `tabooBK`
 ## requirements
 Please pick one app from social apps like WeChat、TencentQQ, 
 or video apps like Tik Tok or news apps like Tencent News or
 e-commerce apps like taobao.com 、jd.com ,etc as an example to 
 create your own app with the unique feature of your school.
-
-# ---`by`---`tabooBK`,`thanks`
 
 # `some_code`
 ```java
